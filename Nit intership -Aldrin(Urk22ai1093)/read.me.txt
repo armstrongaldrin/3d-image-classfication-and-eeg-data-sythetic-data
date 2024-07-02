@@ -1,0 +1,12 @@
+dataset
+link:https://paperswithcode.com/dataset/shapenet for contrastive_learning
+
+project 1 contrastive_learning (colab link)
+https://colab.research.google.com/drive/1JQyKODM57edoFZmw8-rj7DIVsmbn7wGg?usp=sharing --- have to run code every time
+
+project 2 data_set creation (aud&img)(colab link)
+https://colab.research.google.com/drive/17kqWO8Stnrt4NXbLrO--lrfyvSgyQvQ2?usp=sharing-- no model train --- synthetic data	 
+ 
+
+upcoming paper research :
+https://docs.google.com/document/d/1jMajcpGcmDG8W3xuMC0VU5BekCEpFW4I0Rz2Tq3zbak/edit?usp=sharing 
